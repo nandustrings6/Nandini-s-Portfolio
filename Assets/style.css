@@ -52,3 +52,19 @@ body {
     background-size: inherit;
     
 }
+ /*This is wrong, correct this is not working*/
+
+.aboutme {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contactme {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.work {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
