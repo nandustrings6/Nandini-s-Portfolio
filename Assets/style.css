@@ -2,30 +2,31 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    flex: auto;
 }
 
 body {
-    background-color: lightblue;
+    background-image: url(../Assets/Image/abstractart.jpg);
 }
 
 .header h1 {
-    display: inline-block
+    display: inline-block;
+    padding-bottom: 40px;
 }
 
 .header {
-    padding: 0px;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: burlywood;
-    font-size: 50px;
-    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 35px;
+    color: rgb(76, 105, 202);
+    background-color: mistyrose;
 }
 
 .header  ul {
-    padding-top: 15px;
     margin-right: 20px;
+    margin-top: 50px;
     float: right;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 25px;
+    font-size: 25px; 
 }
 
 .header div ul {
@@ -39,32 +40,60 @@ body {
 }
 
 .Header2 {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 40px;
-    display: inline-block;
+    display: flex;
+    justify-content: end;
+    padding-top: 5%;
+    font-size: 25px;
+    border-style: inset;
+    border-width: 5px;
+    background-color: #1383ce;
 }
 
-.image1 {
-    float: left; 
-    margin-right: 25px;
-    max-width: 15%;
-    height: auto;
-    background-size: inherit;
-    
-}
- /*This is wrong, correct this is not working*/
-
-.aboutme {
+.Aboutme {
+    padding-left: 70px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
 }
 
+.Aboutme-text {
+    display: flex;
+    padding-left: 50px;
+}
 .contactme {
+    padding: 50px 100px 100px 200px; 
+    display: flex;
+    justify-content: space-between;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
 }
 
-.work {
+.Work {
+    padding-left: 70px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.Work-Box-Big {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    width: 500px;
+    color: black;
+    display: flex;
+    border-style: dotted; 
+    border-color: #0072bb;
+}
+
+.Work-Boxes {
+    margin-bottom: 20px;
+    height: 300px;
+    width: max-content;
+    color: black;
+    display: flex;
+    border-style: dotted; 
+    border-color: #0072bb;
 }
