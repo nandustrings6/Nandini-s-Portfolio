@@ -50,9 +50,5 @@ I have created this page: https://nandustrings6.github.io/Nandini-s-Portfolio/
 
 * The URL of the GitHub repository that contains my code = https://github.com/nandustrings6/Nandini-s-Portfolio/
 
-## Mockup
-
-
-
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
