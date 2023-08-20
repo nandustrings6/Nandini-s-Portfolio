@@ -75,10 +75,11 @@ body {
     width: 1690px;
     color: black;
     display: flex;
+    padding: 40px;
     border-style: solid;
     border-width: 10px;
     border-color: rgb(122, 116, 206);
-    background-image: url(../Assets/Image/Mernstack.png);
+    background-image: url(../Assets/Image/mernstack2.jpg);
     background-size: cover;
 }
 
@@ -92,10 +93,11 @@ body {
     border-style: solid;
     border-width: 10px;
     border-color: rgb(122, 116, 206);
+    padding: 40px;
     height: 300px;
     width: 740px;
     margin-left: 140px;   
-    background-image: url(../Assets/Image/lot.png);
+    background-image: url(../Assets/Image/Lotnew.jpg);
     background-size: cover;
 }
 
@@ -103,6 +105,7 @@ body {
     border-style: solid;
     border-width: 10px;
     border-color: rgb(122, 116, 206);
+    padding: 40px;
     height: 300px;
     width: 740px;
     margin-left: 140px;   
@@ -115,6 +118,7 @@ body {
     border-style: solid;
     border-width: 10px;
     border-color: rgb(122, 116, 206);
+    padding: 40px;
     height: 300px;
     width: 740px;
     margin-left: 140px;   
@@ -126,15 +130,16 @@ body {
     border-style: solid;
     border-width: 10px;
     border-color: rgb(122, 116, 206);
+    padding: 40px;
     height: 300px;
     width: 740px;
     margin-left: 140px;   
-    background-image: url(../Assets/Image/htmlcss.png);
+    background-image: url(../Assets/Image/htmlcssnew.jpg);
     background-size: cover;
 }
 
 .contactme {
-    padding: 35px;
+    padding: 50px 100px 100px 200px; 
     display: flex;
     justify-content: space-between;
     font-size: 35px;

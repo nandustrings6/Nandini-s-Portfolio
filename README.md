@@ -30,16 +30,29 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Submission summary 
 
-TBD - Update once work is completed
+The following features have been completed with the launch of the webpage: 
 
+```
+I have created this page: https://nandustrings6.github.io/Nandini-s-Portfolio/
+
+- The page loads my portfolio 
+- My developer's name, a recent photo, and links to sections about me, my work, and how to contact me is available on the webpage 
+- Links in the navigation takes you to the corresponding section
+- Link to the work section lead to the titled images of the my applications
+- My first application is image is larger in size than the other applications
+- Once you click on the applications provided it will take you my linked in page which is currently a placeholder redirect to the deployed application 
+
+```
 
 ## Review
 
-You are required to submit BOTH of the following for review:
+* The URL of the deployed application = https://nandustrings6.github.io/Nandini-s-Portfolio/
 
-* The URL of the deployed application.
+* The URL of the GitHub repository that contains my code = https://github.com/nandustrings6/Nandini-s-Portfolio/
 
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+## Mockup
+
+
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
