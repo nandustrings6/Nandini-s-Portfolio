@@ -60,14 +60,6 @@ body {
     padding-left: 50px;
 }
 
-.contactme {
-    padding: 50px 100px 100px 200px; 
-    display: flex;
-    justify-content: space-between;
-    font-size: 35px;
-    color: rgb(151, 71, 121);
-}
-
 .Work {
     padding: 35px;
     display: flex;
@@ -79,12 +71,13 @@ body {
 
 .Surf-Report {
     margin-bottom: 20px;
-    height: 300px;
-    width: 1700px;
+    height: 600px;
+    width: 1690px;
     color: black;
     display: flex;
     border-style: solid;
-    border-color: black;
+    border-width: 10px;
+    border-color: rgb(122, 116, 206);
     background-image: url(../Assets/Image/Mernstack.png);
     background-size: cover;
 }
@@ -97,9 +90,10 @@ body {
 
 .LED {
     border-style: solid;
-    border-color: black;
+    border-width: 10px;
+    border-color: rgb(122, 116, 206);
     height: 300px;
-    width: 750px;
+    width: 740px;
     margin-left: 140px;   
     background-image: url(../Assets/Image/lot.png);
     background-size: cover;
@@ -107,9 +101,10 @@ body {
 
 .Calculator {
     border-style: solid;
-    border-color: black;
+    border-width: 10px;
+    border-color: rgb(122, 116, 206);
     height: 300px;
-    width: 750px;
+    width: 740px;
     margin-left: 140px;   
     background-image: url(../Assets/Image/React.jpeg);
     background-size: cover;
@@ -118,9 +113,10 @@ body {
 
 .PastelMern {
     border-style: solid;
-    border-color: black;
+    border-width: 10px;
+    border-color: rgb(122, 116, 206);
     height: 300px;
-    width: 750px;
+    width: 740px;
     margin-left: 140px;   
     background-image: url(../Assets/Image/PastelMern2.jpg);
     background-size: cover;
@@ -128,10 +124,19 @@ body {
 
 .RunHTML {
     border-style: solid;
-    border-color: black;
+    border-width: 10px;
+    border-color: rgb(122, 116, 206);
     height: 300px;
-    width: 750px;
+    width: 740px;
     margin-left: 140px;   
     background-image: url(../Assets/Image/htmlcss.png);
     background-size: cover;
+}
+
+.contactme {
+    padding: 35px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 35px;
+    color: rgb(151, 71, 121);
 }
